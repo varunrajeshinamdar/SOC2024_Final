@@ -1,4 +1,4 @@
-#Details of my SOC:
+# Details of my SOC:
 
 We completed our SOC project through 4 "weekly" assignments. We were given more than a week's time for each so that we also got time to learn the concepts required for that weeks sums before attempting them.
 
